@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CaptainBeepBeep' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  pod 'Alamofire'
+  pod 'Cosmos'
+  pod 'SwiftyJSON'
+  pod 'ReachabilitySwift'
+  pod 'NVActivityIndicatorView'
+  pod 'IQKeyboardManagerSwift'
+  pod 'SDWebImage/WebP'
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+  pod 'Socket.IO-Client-Swift'
+  pod 'Gifu'
+  pod 'PKHUD', '~> 5.0'
+  pod 'Socket.IO-Client-Swift'
+  
+  # Pods for CaptainBeepBeep
+
+end

@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  DriverRequest
+
+  Created by MacBook on 5/23/18.
+  Copyright © 2018 Technosaab. All rights reserved.
+*/
+"changeno"="Change number";
+"changemail"="Change email";
+"changecountry"="Change country or city";
+"changepass"="Change password";
+"discountcoup"="Discount coupons";
+"changelang"="Change language";
+"aboutrequest"="About App";
+"customerservice"="Customer service";
+"logout"="Logout";
+"share"="Share";
+"termsandconditions"="Terms and conditions";
+"privacy"="Privacy";
+"howtowork"="How to work in this app?";
+"reviews"="Reviews";
+"financialrecords"="Financial records";
+"myrequests"="My requests";
+"newpass"="New password";
+"oldpass"="Old password";
+"changepassword"="Change password";
+"RequestGo"="BeepBeep";
+"newrequest"="New request";
+"clientplace"="Client place";
+"yourplace"="Your place";
+"marketplace"="Market place";
+"ordercost"="Order cost";
+"ordertime"="Order time";
+"couponnumber"="Coupon number";
+"Accept"="Accept";
+"reject"="Reject";
+"marketlabel"="Market name";
+"gotomarket"="GO TO MARKET";
+"clientname"="Client name";
+"chatlabel"="Chat";
+"orderdetails"="Order Details";
+"ordernumber"="Order number";
+"cost"="Cost";
+"delivaryplace"="Delivary place";
+"travelledplace"="Travelled place";
+"travelleddistance"="Travelled Distance";
+"delivarycost"="Delivary cost";
+"ordertime"="Order time";
+"orderdate"="Order date";
+"Couponnumber"="Coupon number";
+"calllabel"="Call";
+"genbill"="Generate bil";
+"Wrong"="Wrong";
+"Enternewnumber"="Enter new number";
+"sorryismobileexsist"="sorry is mobile exsist";
+"Enteremailaddress"="Enter email address";
+"sorryisemailexsist"="sorry is email exsist";
+"SelectCountry"="Select Country";
+"SelectCity"="Select City";
+"ERRORBACKEND"="ERROR BACKEND";
+"Enteroldpassword"="Enter old password";
+"Enternewpassword"="Enter new password";
+"Besurethatoldpasswordberight"="Be sure that old password be right";
+"ThierisnoReviews"="Thier is no Reviews";
+"Requests"="Requests";
+"Entercreditnumber"="Enter credit number";
+"PhotoOrCamera"="Photo or camera";
+"ChooseASource"="Choose a source";
+"Camera"="Camera";
+"Cancel"="Cancel";
+"Enterbankname"="Enter bank name";
+"Enteraccountnumber"="Enter account number";
+"Entervalue"="Enter value";
+"Enternotes"="Enter notes";
+"Uploadimage"="Upload image";
+"Available"="Available";
+"Outofservice"="Out of service";
+"Theirisnoorders"="There is no orders";
+"Attention"="Attention";
+"OK"="ok";
+"Youmustmakerecipttoexitrequest"="You must make recipt to exit request";
+"Photolibrary"="Photo library";
+"Send"="Send";
+"Youmustrecievedorderfrommarket"="You must recieved order from market";
+"Areyousuretoexitrequest"="Are you sure to exit request";
+"Exitrequest"="Exit request";
+"clickhere"="Click here";
+
+
+//======<
+
+"oldNumber" = "Old Number";
+"newNumber" = "New Number";
+"edit" = "Edit";
+"newEmail" = "New Email Address";
+"email"= "Email";
+"hotline"="Hotline";
+
+"credit"="Credit";
+"remainingcredit"="Remaining Credit";
+"currentcredit"="Current Credit";
+
+"requestsnumber"="Requests Number";
+"deliveryAmounts"="Total Delivery Amounts";
+"totalcommision"="Total Commission Due to the company";
+
+"logoutmessage"="are you sure you want to log out?";
+
+"continue"="Continue";
+
+"noInternet" = "No Internet Connection";
+"checkInternet"="Please check your internet connection";
+"home"="Home";
+"order"="Order is recieved from market";
+"orderask"="Did you reciver the order and the original bill from the market and generate the bill to the client ?";
+"done"="Done";
+"clientbill"= "Client Bill";
+"total"="Total Cost";
+"typee"="Type A Message";
+"up"="Upoad the original bill from the store";
+"pay"= "Pay Now";
+"bank"="BANKING TRANSFER";
+"crNo"= "Credit Number";
+"nameBank"="Bank Name";
+"acc"= "Account Number";
+"val"= "Value";
+"submit"="Submit";
+"credit"="Credit Card Image (Optional)";

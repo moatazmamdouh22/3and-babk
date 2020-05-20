@@ -1,0 +1,3 @@
+[submodule "Frameworks/External/PXGoogleDirections"]
+	path = Frameworks/External/PXGoogleDirections
+	url = https://github.com/poulpix/PXGoogleDirections.git

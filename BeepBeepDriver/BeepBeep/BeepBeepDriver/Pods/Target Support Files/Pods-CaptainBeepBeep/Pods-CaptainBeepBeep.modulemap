@@ -1,0 +1,6 @@
+framework module Pods_CaptainBeepBeep {
+  umbrella header "Pods-CaptainBeepBeep-umbrella.h"
+
+  export *
+  module * { export * }
+}

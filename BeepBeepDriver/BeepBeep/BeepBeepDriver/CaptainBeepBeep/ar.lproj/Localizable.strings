@@ -1,0 +1,128 @@
+/* 
+  Localizable.strings
+  DriverRequest
+
+  Created by MacBook on 5/23/18.
+  Copyright © 2018 Technosaab. All rights reserved.
+*/
+"changeno"="تغيير الرقم";
+"changemail"="تغيير الايميل";
+"changecountry"="تغيير الدولة او المدينة";
+"changepass"="تغيير كلمة المرور";
+"discountcoup"="كوبونات خصم";
+"changelang"="تغيير اللغة";
+"aboutrequest"= "عن التطبيق";
+"customerservice"="خدمة العملاء";
+"logout"="تسجيل الخروج";
+"share"="مشاركة";
+"termsandconditions"="الشروط والاحكام";
+"privacy"="خصوصية";
+"howtowork"="كيف تعمل في هذا التطبيق؟";
+"reviews"="التعليقات";
+"financialrecords"="السجلات المالية";
+"myrequests"="طلباتي";
+"newpass"="كلمة المرور الجديدة";
+"oldpass"="كلمة المرور القديمة";
+"changepassword"="تغيير كلمة المرور";
+"RequestGo"="بيب بيب";
+"newrequest"="طلب جديد";
+"clientplace"="مكان المستخدم";
+"yourplace"="مكاني";
+"marketplace"="مكان السوق";
+"ordercost"="تكلفة الطلب";
+"ordertime"="وقت الطلب";
+"couponnumber"="رقم الكوبون";
+"Accept"="موافق";
+"reject"="رفض";
+"marketlabel"="اسم السوق";
+"gotomarket"="اذهب الى السوق";
+"clientname"="اسم العميل";
+"chatlabel"="دردشة";
+"orderdetails"="تفاصيل الطلب";
+"ordernumber"="رقم الأمر";
+"cost"="ثمن";
+"delivaryplace"="مكان التسليم";
+"travelledplace"="مكان السفر";
+"travelleddistance"="المسافة";
+"delivarycost"="تكلفة التوصيل";
+"ordertime"="وقت الطلب";
+"orderdate"="تاريخ الطلب";
+"Couponnumber"="رقم القسيمة";
+"calllabel"="مكالمة";
+"genbill"="انشاء فاتورة";
+"Wrong"="خطأ";
+"Enternewnumber"="أدخل رقم جديد";
+"sorryismobileexsist"="عذرا المحمول موجود";
+"Enteremailaddress"="أدخل عنوان البريد الالكتروني";
+"sorryisemailexsist"="عذرا البريد الإلكتروني موجود";
+"SelectCountry"="حدد الدولة";
+"SelectCity"="اختر المدينة";
+"ERRORBACKEND"="ERROR BACKEND";
+"Enteroldpassword"="أدخل كلمة المرور القديمة";
+"Enternewpassword"="أدخل كلمة المرور الجديدة";
+"Besurethatoldpasswordberight"="تأكد من صحة كلمة المرور القديمة";
+"ThierisnoReviews"="لا يوجد مراجعات";
+"Requests"="طلبات";
+"Entercreditnumber"="أدخل رقم الائتمان";
+"PhotoOrCamera"="صورة أو كاميرا";
+"ChooseASource"="اختر مصدرًا";
+"Camera"="كاميرا";
+"Cancel"="إلغاء";
+"Enterbankname"="أدخل اسم البنك";
+"Enteraccountnumber"="أدخل رقم الحساب";
+"Entervalue"="أدخل القيمة";
+"Enternotes"="أدخل الملاحظات";
+"Uploadimage"="تحميل الصور";
+"Available"="متاح";
+"Outofservice"="خارج الخدمة";
+"Theirisnoorders"="لا توجد أوامر";
+"Attention"="انتباه";
+"OK"="حسنا";
+"Youmustmakerecipttoexitrequest"="يجب عليك تقديم إيصال للخروج من الطلب";
+"Photolibrary"="مكتبة الصور";
+"Send"="إرسال";
+"Youmustrecievedorderfrommarket"="يجب أن تتلقى طلبًا من السوق";
+"Areyousuretoexitrequest"="هل أنت متأكد من الخروج من الطلب";
+"Exitrequest"="طلب خروج";
+"clickhere"="انقر هنا";
+
+
+///------->
+
+"oldNumber" = "الرقم الحالي";
+"newNumber" = "الرقم الجديد";
+"edit" = "تعديل";
+"exit" = "خروج";
+"newEmail" = "البريد الالكتروني الجديد";
+
+"email"= "البريد الالكتروني";
+"hotline"="الخط الساخن";
+
+"credit"="الرصيد";
+"remainingcredit"="الرصيد المتبقي";
+"currentcredit"="الرصيد الحالي";
+
+"requestsnumber"="عدد الطلبات";
+"deliveryAmounts"="مجموع مبالغ التسليم";
+"totalcommision"="إجمالي العمولات المستحقة للشركة";
+"logoutmessage"="هل أنت متأكد أنك تريد تسجيل الخروج";
+"continue"="استمر";
+
+"noInternet" = "لايوجداتصال إنترنت";
+"checkInternet"="الرجاء التحقق من اتصال الانترنت الخاص بك";
+"home"="الرئيسية";
+"order"="يتم استلام الطلب من السوق";
+"orderask"="هل تلقيت النظام والفاتورة الأصلية من السوق وتوليد الفاتورة إلى العميل";
+"done"="تم";
+"clientbill"="فاتورة العميل";
+"total"="التكلفة الإجمالية";
+"typee"="اكتب رسالة";
+"up"="تحميل الفاتورة الأصلية من المتجر";
+"pay"="ادفع الآن";
+"bank"="تحويل مصرفي";
+"crNo"="رقم الائتمان";
+"nameBank"="اسم البنك";
+"acc"="رقم حساب";
+"val"= "القيمة";
+"submit"="ارسال";
+"credit"="صورة بطاقة الاتمان (اختياري)";
